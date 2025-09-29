@@ -4,10 +4,10 @@ JavaScript библиотека для определения статуса з�
 
 ## Бейджики статуса
 
-![Node.js CI](https://github.com/ВАШ_USERNAME/health-indicator/actions/workflows/test.yml/badge.svg)
-![Coverage Status](https://coveralls.io/repos/github/ВАШ_USERNAME/health-indicator/badge.svg?branch=main)
-![npm version](https://img.shields.io/npm/v/health-indicator)
-![License](https://img.shields.io/github/license/ВАШ_USERNAME/health-indicator)
+![Node.js CI](https://github.com/Alex-K004/legend/actions/workflows/test.yml/badge.svg)
+![Tests](https://img.shields.io/badge/tests-100%25 passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Описание
 

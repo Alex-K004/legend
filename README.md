@@ -4,7 +4,7 @@ JavaScript библиотека для определения статуса з�
 
 ## Бейджики статуса
 
-![Node.js CI](https://github.com/Alex-K004/legend/actions/workflows/test.yml/badge.svg)
+![Node.js CI](https://github.com/Alex-K004/legend/actions/workflows/main.yml)
 
 ## Описание
 
